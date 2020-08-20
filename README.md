@@ -36,7 +36,7 @@ Most of the widgets come with settings. Make sure you check the settings on each
 		<td><strong>Settings</strong></td>
 	</tr>
 	<tr>
-		<td>Cart Abanadonment</td>
+		<td>Cart Abandonment</td>
       <td>Compare and keep track of how many carts have been abandoned and completed, and how much revenue you missed out on.</td>
       <td>-</td>
 	</tr>
